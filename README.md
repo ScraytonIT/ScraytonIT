@@ -12,14 +12,7 @@ Hi, I'm Shontasia, an IT professional passionate about creating solutions, solvi
 
 <h2>🤳Connect with me:</h2>
 
-[<img align="left" alt="Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shontasia-crayton-mlt-ascp-891a62160
-[twitter]: https://twitter.com/
-[instagram]: https://www.instagram.com/
-<!--
-**ScraytonIT/ScraytonIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
