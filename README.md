@@ -1,4 +1,4 @@
-Hi, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collabrating on impactful projects. Always learning, sharing and contributing to the tech community. <a href="https://linkedin.com/in/shontasia-crayton">IT Professional
+Hi, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collabrating on impactful projects. Always learning, sharing and contributing to the tech community. <a href="www.linkedin.com/in/shontasia-crayton">IT Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,7 +16,7 @@ Hi, I'm Shontasia, an IT professional passionate about creating solutions, solvi
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[linkedin]: https://linkedin.com/in/shontasia-crayton
+[linkedin]: www.linkedin.com/in/shontasia-crayton
 
 <!--
 **ScraytonIT/ScraytonIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
