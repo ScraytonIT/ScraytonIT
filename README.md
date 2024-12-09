@@ -1,4 +1,4 @@
-<h1>Hi everyone, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collaborating on impactful projects. Always learning, sharing, and contrubuting to the tech community.an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi everyone, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collaborating on impactful projects. Always learning, sharing, and contrubuting to the tech community.an <a href="https://linkedin.com/in/ShontasiaCrayton">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -16,9 +16,7 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/Josh
-[instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: www.linkedin.com/in/shontasia-crayton-mlt-ascp-891a62160
 
 
 <!--
