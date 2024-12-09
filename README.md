@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone, I'm Shontasia, an II professional passionate about creating solutions, solving problems, and collaborating on impactful projects. Always learning, sharing, and contrubuting to the tech community.
 
 <!--
 **ScraytonIT/ScraytonIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
