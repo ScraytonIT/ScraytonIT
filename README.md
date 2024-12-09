@@ -18,7 +18,8 @@ Hi, I'm Shontasia, an IT professional passionate about creating solutions, solvi
 
 
 [linkedin]: https://www.linkedin.com/in/shontasia-crayton-mlt-ascp-891a62160
-
+[twitter]: https://twitter.com/
+[instagram]: https://www.instagram.com/
 <!--
 **ScraytonIT/ScraytonIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
