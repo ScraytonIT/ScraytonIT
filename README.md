@@ -3,7 +3,7 @@ Hi, I'm Shontasia, an IT professional passionate about creating solutions, solvi
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://www.github.com/scraytonIT/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://www.github.com/shontasia-crayton/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://www.github.com/scraytonIT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://www.github.com/scraytonIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
