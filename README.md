@@ -1,5 +1,4 @@
-## Hi everyone, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collaborating on impactful projects. Always learning, sharing, and contrubuting to the tech community.
-<h1>Hi, I'm Josh, an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
+<h1>Hi everyone, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collaborating on impactful projects. Always learning, sharing, and contrubuting to the tech community.an <a href="https://linkedin.com/in/Josh">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -20,6 +19,7 @@
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
 [linkedin]: https://linkedin.com/in/Josh
+
 
 <!--
 **ScraytonIT/ScraytonIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
