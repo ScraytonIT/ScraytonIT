@@ -1,4 +1,4 @@
-h1>Hi, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collabrating on impactful projects. Always learning, sharing and contributing to the tech community. <a href="https://linkedin.com/in/Shontasia">IT Professional</a>☺</h1>
+Hi, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collabrating on impactful projects. Always learning, sharing and contributing to the tech community. <a href="https://linkedin.com/in/Shontasia">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
