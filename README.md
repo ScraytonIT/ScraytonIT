@@ -3,12 +3,12 @@ Hi, I'm Shontasia, an IT professional passionate about creating solutions, solvi
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/ScraytonIT/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/ScraytonIT/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/ScraytonIT/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://www.github.com/scraytonIT/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://www.github.com/scraytonIT/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://www.github.com/scraytonIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/ScraytonIT/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ScraytonIT/azure-network-protocols)
+  - [Configuring On-premises Active Directory within Azure VMs](https://www.github.com/scraytonIT/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://www.github.com/scraytonIT/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
 
