@@ -1,4 +1,4 @@
-<h1>Hi everyone, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collaborating on impactful projects. Always learning, sharing, and contrubuting to the tech community.an <a www.linkedin.com/in/shontasia-crayton-mlt-ascp-891a62160>IT Professional</a>☺</h1>
+<h1>Hi everyone, I'm Shontasia, an IT professional passionate about creating solutions, solving problems, and collaborating on impactful projects. Always learning, sharing, and contrubuting to the tech community.an <a www.linkedin.com/in/shontasia>IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
