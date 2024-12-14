@@ -7,7 +7,7 @@ Hi, I'm Shontasia, an IT professional passionate about creating solutions, solvi
   - [osTicket: Post-Installation Configuration](https://www.github.com/ScraytonIT/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://www.github.com/ScraytonIT/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://www.github.com/ScraytonIT/configure-ad)
+  - [Configuring Active Directory within Azure VMs](https://www.github.com/ScraytonIT/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://www.github.com/ScraytonIT/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
